@@ -1,3 +1,4 @@
+import React from "react";
 import { Link } from "react-router-dom";
 import FooterLogo from "../../components/footer-logo";
 
@@ -54,14 +55,14 @@ const Footer = () => {
                                 </div>
                                 <div className="widget-copyright">
                                     <p>
-                                        © 2021 <span>Alexis</span>. Made with{" "}
+                                        © 2021 <span>H.PHOTOGRAPHY</span>. Made with{" "}
                                         <i className="icofont-heart-alt"></i> by{" "}
                                         <a
                                             target="_blank"
-                                            href="https://www.hasthemes.com"
+                                            href="https://github.com/amRadhwen"
                                             rel="noreferrer"
                                         >
-                                            HasThemes
+                                            amRadhwen
                                         </a>
                                     </p>
                                 </div>

@@ -3,7 +3,7 @@
         "slider": [
             {
                 "id": 1,
-                "backgroundImage": "/img/hero-slider/hero1.jpg",
+                "backgroundImage": "/img/bg.jpg",
                 "title": "Vouge Italia Deember Campaign",
                 "subTitle": "inspire 2026",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
