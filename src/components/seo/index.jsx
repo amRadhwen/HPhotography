@@ -10,7 +10,7 @@ const SEO = ({ title }) => {
             <meta name="robots" content="noindex, follow" />
             <meta
                 name="description"
-                content="Alexis – Photography React JS Template"
+                content="HP – Habib Photography"
             />
             <meta
                 name="viewport"
